@@ -69,6 +69,9 @@ vendor/lib/libssrec.so
 # Audio FX modules
 vendor/lib/soundfx/libasphere.so
 vendor/lib/soundfx/libshoebox.so
+vendor/lib/soundfx/libmisoundfx.so
+vendor/lib/soundfx/libdirac.so
+vendor/lib64/soundfx/libdirac.so
 
 # Audio (Firmware)
 vendor/firmware/cs35l41-dsp1-diag-revb2.wmfw
